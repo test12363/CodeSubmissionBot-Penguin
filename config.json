@@ -1,1 +1,10 @@
-
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "!",
+  "category_id": 123456789012345678,
+  "admin_role_1_id": 123456789012345678,
+  "admin_role_2_id": 123456789012345678,
+  "reward_role_id": 123456789012345678,
+  "max_chars_per_file": 50000,
+  "mute_duration_minutes": 30
+}
